@@ -40,6 +40,11 @@
   right: 10px;
 }
 
+p {
+  color: red;
+  text-align: center;
+}
+
 .theme-2 .container {
   background-color: #e4ada7;
   border: 1px solid #000;
@@ -80,5 +85,10 @@
   padding: 1em 2em;
   position: absolute;
   right: 10px;
+}
+
+p {
+  color: red;
+  text-align: center;
 }
 /*# sourceMappingURL=main.css.map */

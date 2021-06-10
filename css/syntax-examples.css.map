@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../dist/css/syntax-examples.scss"
-    ],
-    "names": [],
-    "file": "syntax-examples.css"
-}
